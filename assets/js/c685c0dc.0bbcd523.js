@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkthe_archive=self.webpackChunkthe_archive||[]).push([[396],{803:e=>{e.exports=JSON.parse('{"permalink":"/The-Archive/release_notes","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

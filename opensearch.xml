@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+                       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>Avaria</ShortName>
+  <Description>Search Avaria</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="16" height="16" type="image/x-icon">https://devsixl.github.io/The-Archive/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://devsixl.github.io/The-Archive/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://devsixl.github.io/The-Archive/opensearch.xml" />
+  <moz:SearchForm>https://devsixl.github.io/The-Archive/</moz:SearchForm>
+</OpenSearchDescription>

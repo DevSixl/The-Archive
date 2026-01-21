@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkthe_archive=self.webpackChunkthe_archive||[]).push([[431],{3031:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"v0.3.0","permalink":"/The-Archive/release_notes/2023/07/01/_0.3"}]}')}}]);
